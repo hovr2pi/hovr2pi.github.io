@@ -1,3 +1,6 @@
+hovr2pi pages
+
+
 install.hovr2pi.org
 =================
 
@@ -18,9 +21,4 @@ Available Modules
 * homeshtick
 * linxbrew
 * wgetarx
-
-Support
--------
-
-None but you can email me at: csim@hovr2pi.org
 
