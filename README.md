@@ -16,7 +16,6 @@ $ curl -l http://install.hovr2pi.org/modulename | bash
 
 Available Modules
 ------------
-* columbus
 * git
 * homeshtick
 * linxbrew
